@@ -40,3 +40,10 @@ body {
 .btn-color {
     background-color:orange
 }
+
+.tab-content {
+    border-left: 1px solid #addd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    paddding: 10px;
+}
